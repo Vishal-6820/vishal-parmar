@@ -421,6 +421,8 @@ nav a:hover::before {
   min-width: 100%;
   overflow: hidden;
   float: right;
+  border-radius: 10px;
+  border-width: 1px solid #fff;
 }
 
 .second-content .left-content {
